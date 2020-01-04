@@ -27,7 +27,7 @@ $fields_string  =   "";
         (
                             
                             
-                            'id' > '18732',
+                            'id' > $id,
                             'title' > 'MarsHall AnarchoXploit',
                             'content' > 'Hacked By MarsHall'
                            
